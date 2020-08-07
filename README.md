@@ -1,2 +1,2 @@
 # Attention-Dynamics-Sina-Weibo-COVID-19
-This repository contains datasets that were used in the paper "Attention Dynamics on the Chinese Social Media Sina Weibo during the COVID-19 Pandemic", which is submitted to EPJ Data Science. The data includes the rank, hashtag name and the timestamp on the Hot Search List (HSL) of Sina Weibo, with a frequency of every 5 minutes, ranges from 2019-12-16 to 2020-04-17.  
+This repository contains all datasets from Sina Weibo and Twitter that were used in the paper "Attention Dynamics on the Chinese Social Media Sina Weibo during the COVID-19 Pandemic", which is submitted to EPJ Data Science. 
