@@ -1,0 +1,2 @@
+This folder contains processed and categorized hashtags (sub-categories of Mainland China category, East Asia outside of Mainland China, and Other Countries outside of East Asia) on Weibo re-ranked Hot Search List during our investigated time span.
+The reservoir csv files contain number of new hashtags appeared on Weibo re-ranked Hot Seach List up to a certain timestamp. 
